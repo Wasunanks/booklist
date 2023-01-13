@@ -1,0 +1,20 @@
+[
+    {
+        "title" : "What is Computer?",
+        "sub_title" : "an electronic device for storing and processing data.",
+        "image_url" : "https://cdn.pixabay.com/photo/2017/11/27/21/31/computer-2982270_1280.jpg",
+        "detail" : "เครื่องคำนวณอิเล็กทรอนิกส์ที่สามารถทำงานคำนวณผลและเปรียบเทียบค่าตามชุดคำสั่งด้วยความเร็วสูงอย่างต่อเนื่องและอัตโนมัติ"
+    },
+    {
+        "title" : "What is Programmimg?",
+        "sub_title" : "the process or activity of writing computer programs.",
+        "image_url" : "https://cdn.pixabay.com/photo/2015/12/04/14/05/code-1076536__480.jpg",
+        "detail" : "การเขียนหรือสร้างคำสั่งให้คอมพิวเตอร์ทำงานให้ได้ตามที่ต้องการ ด้วยภาษาที่คอมพิวเตอร์เข้าใจ"
+    },
+    {
+        "title" : "What is Programmer?",
+        "sub_title" : "a person who writes computer programs.",
+        "image_url" : "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-developer-6521720__480.jpg",
+        "detail" : "นักเขียนโปรแกรมคอมพิวเตอร์ ที่สามารถที่จะพัฒนา สร้างและแก้ไขปัญหาและยังรวมไปถึงการวิเคราะห์ข้อมูลเพื่อปรับปรุงให้ดีขึ้นเพื่อที่จะได้โปรแกรมหรือว่า Application"
+    }
+]
